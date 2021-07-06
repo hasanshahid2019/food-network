@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 h1{
     font-size: 40px;
@@ -12,6 +13,7 @@ h2{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -30,9 +32,22 @@ section{
     padding: 10px 40px;
     border-radius: 25px;
 }
+.top-banner{
+    background-image: url(images/female/7.png);
+    background-repeat: no-repeat;
+    }
 footer p{
     text-align: center;
 }
 footer h2{
     text-align: center;
+}
+.yellow{
+    color: yellow;
+}
+.white-color{
+    color: white;
+}
+.top-foot{
+    background-image: url(images/female/black.jpg);
 }
