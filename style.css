@@ -13,7 +13,7 @@ h2{
 }
 section{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 .half-width{
     width: 50%;
@@ -36,6 +36,13 @@ section{
     background-image: url(images/female/7.png);
     background-repeat: no-repeat;
     }
+#inner {
+    width: 40%;
+    margin: 0 auto;
+}
+.center {
+    text-align: center;
+}
 footer p{
     text-align: center;
 }
