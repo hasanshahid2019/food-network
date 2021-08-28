@@ -64,11 +64,17 @@ footer h2{
     text-align: center;
 }
 .yellow{
-    color: yellow;
+    color: greenyellow;
 }
 .white-color{
     color: white;
 }
 .top-foot{
     background-image: url(images/female/black.jpg);
+}
+.bonus{
+    text-align: center;
+    padding: 20px;
+    margin-left: 600px;
+    color: hotpink;
 }
